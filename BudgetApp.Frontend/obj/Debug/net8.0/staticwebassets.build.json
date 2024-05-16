@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "p5A9bTPuq2rqDqvmvYiTwqd3c/OvHr6dcpPYbsZyRWE=",
+  "Source": "BudgetApp.Frontend",
+  "BasePath": "_content/BudgetApp.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BudgetApp.Frontend\\wwwroot",
+      "Source": "BudgetApp.Frontend",
+      "ContentRoot": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/BudgetApp.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetApp.Frontend.styles.css",
+      "SourceId": "BudgetApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BudgetApp.Frontend",
+      "RelativePath": "BudgetApp.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetApp.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetApp.Frontend.bundle.scp.css",
+      "SourceId": "BudgetApp.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BudgetApp.Frontend",
+      "RelativePath": "BudgetApp.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetApp.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\wwwroot\\app.css",
+      "SourceId": "BudgetApp.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\schir\\OneDrive\\Desktop\\Blazor Projects\\BudgetApp\\BudgetApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/BudgetApp.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

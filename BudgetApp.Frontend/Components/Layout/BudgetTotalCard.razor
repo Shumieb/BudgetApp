@@ -1,0 +1,36 @@
+﻿<div class="card">
+    <div class="card-body text-bg-dark rounded">
+        <h4>Total Budget: </h4>
+        @if (showTotalBudgetForm)
+        {
+            <div class="input-group mb-3">
+                <span class="input-group-text">$</span>
+                <input type="text" class="form-control">
+                <button type="button" @onclick="hideTotalBudgetForm" class="btn btn-light btn-sm">Save</button>
+            </div>
+        }
+        else
+        {
+            <div class="d-flex flex-row justify-content-between w-100">
+                <h4>$40,000</h4>
+                <button type="button" @onclick="displayTotalBudgetForm" class="btn btn-light">Update</button>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+
+    private bool showTotalBudgetForm = false;
+
+    private void displayTotalBudgetForm()
+    {
+        showTotalBudgetForm = true;
+    }
+
+    private void hideTotalBudgetForm()
+    {
+        showTotalBudgetForm = false;
+    }
+
+}
